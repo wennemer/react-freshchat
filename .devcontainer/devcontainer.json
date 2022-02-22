@@ -1,0 +1,8 @@
+{
+  "name": "TS-PG-DEV-ENV_react-freshchat",
+  "runArgs": ["-u", "node"],
+  "workspaceFolder": "/workspace",
+  "settings": {
+    "terminal.integrated.shell.linux": "/bin/bash"
+  }
+}
