@@ -71,7 +71,7 @@ let loadScript = () => {
   let script = document.createElement('script')
   script.async = 'true'
   script.type = 'text/javascript'
-  script.src = 'https://wchat.freshchat.com/js/widget.js'
+  script.src = 'https://wchat.eu.freshchat.com/js/widget.js'
   script.id = id
   document.head.appendChild(script)
 }
@@ -87,7 +87,7 @@ class FreshChat extends React.Component {
     }
 
     this.init({
-      host: 'https://wchat.freshchat.com',
+      host: 'https://wchat.eu.freshchat.com',
       token,
       ...moreProps,
     })
