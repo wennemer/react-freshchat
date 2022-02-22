@@ -1,5 +1,7 @@
 # React Freshchat
 React Freshchat is a wrapper on top of Freshchat (see official documentation here https://developers.freshchat.com/).
+# Modification by wennemer
+modified host to eu
 
 ## How to use
 **DO NOT INCLUDE Freshchat script in `head`, React Freshchat will automatically add it with a lazy load technique**

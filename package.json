@@ -1,5 +1,5 @@
 {
-  "name": "react-freshchat",
+  "name": "react-freshchat-eu",
   "version": "1.0.11",
   "description": "FreshChat React implementation",
   "main": "build/react-freshchat.js",
@@ -18,7 +18,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/smartprocure/react-freshchat.git"
+    "url": "git+https://github.com/wennemer/react-freshchat.git"
   },
   "keywords": [
     "react",
@@ -27,9 +27,9 @@
   "author": "Giuliano Kranevitter <gkranevitter@govspend.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/smartprocure/react-freshchat/issues"
+    "url": "https://github.com/wennemer/react-freshchat/issues"
   },
-  "homepage": "https://github.com/smartprocure/react-freshchat#readme",
+  "homepage": "https://github.com/wennemer/react-freshchat#readme",
   "dependencies": {
     "babel-runtime": "^6.26.0",
     "lodash": "^4.17.4",
